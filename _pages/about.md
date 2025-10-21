@@ -6,8 +6,8 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: Professional1.jpeg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The best problems in science are the important, challenging ones.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hey everyone! I am a scientist operating at the intersection of chemical biology, drug discovery, and AI/ML. I have extensive experience in both academia and industry in bioconjugation, peptide/protein engineering, and organic/polymer synthesis for the design and development of effective therapeutics and diagnostics. My personal fascination is in applying an interdisciplinary approach with state-of-the-art techniques to overcome the most fundamental challenges in biomedical research.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to research, I also have a mild obsession with graphic design and data visualisation.
+
+- 🔭 **Current Focus:** Harnessing AI/ML to unlock novel therapeutics and overcome intractable diseases.
+- 💡 **Core Expertise:** Bioconjugation, drug conjugate development, peptide & protein engineering, organic/polymer synthesis, and computational drug discovery.
+- ✨ **Passion:** Data visualisation and graphic design to communicate complex scientific concepts clearly and effectively.
