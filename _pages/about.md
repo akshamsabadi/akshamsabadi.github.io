@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey everyone! I'm André and I enjoy tackling the important, challenging problems in medicine. I'm a scientist operating at the intersection of chemical biology, drug discovery, and AI/ML and have extensive experience in both academia and industry in bioconjugation, peptide/protein engineering, and organic/polymer synthesis for the design and development of effective therapeutics and diagnostics. My personal fascination is in applying an interdisciplinary approach with state-of-the-art techniques to overcome the most fundamental challenges in biomedical research.
-
 🚧 Website under construction 🚧
+
+Hey everyone! I'm André and I enjoy tackling the important, challenging problems in medicine. I'm a scientist operating at the intersection of chemical biology, drug discovery, and AI/ML and have extensive experience in both academia and industry in bioconjugation, peptide/protein engineering, and organic/polymer synthesis for the design and development of effective therapeutics and diagnostics. My personal fascination is in applying an interdisciplinary approach with state-of-the-art techniques to overcome the most fundamental challenges in biomedical research.
 
 In addition to research, I also have a mild obsession with data visualisation and graphic design.
