@@ -63,7 +63,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-lod-calculator",
           title: 'LOD Calculator',
-          description: "A web application for calculating the Limit of Detection (LOD) and Limit of Quantification (LOQ).",
+          description: "A web application for calculating the Limit of Detection (LOD).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lod_calculator/";
             },},{
