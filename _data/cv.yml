@@ -49,4 +49,4 @@
   contents:
     - title: <a href="https://github.com/akshamsabadi/lod-calculator">LOD Calculator</a>
       year: 
-      description: A web application for calculating the Limit of Detection (LOD) and Limit of Quantification (LOQ).
+      description: A web application for calculating the Limit of Detection (LOD).
