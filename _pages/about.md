@@ -39,7 +39,7 @@ In addition to research, I have a mild obsession with data visualisation & graph
 
 ### ✦ Technical Toolkit
 
-<b>Programming & Ecosystem</b>
+<h4 style="color: #ffffff">Programming & Ecosystem</h4>
 <br>
 <p>
   <img src="{{ '/assets/img/badges/badge_Obsidian.svg' | relative_url }}" alt="Obsidian"/>
@@ -52,7 +52,7 @@ In addition to research, I have a mild obsession with data visualisation & graph
 </p>
 <br>
 
-<b>Design & Visualisation</b>
+<h4 style="color: #ffffff">Design & Visualisation</h4>
 <br>
 <p>
   <img src="{{ '/assets/img/badges/badge_PyMOL.svg' | relative_url }}" alt="PyMOL"/>
