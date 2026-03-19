@@ -33,6 +33,8 @@ My foundational background is in organic chemistry, and an early fascination of 
 
 I operate at the intersection of **peptide/protein engineering**, **drug discovery**, and **AI/ML**. My expertise spans bioconjugation, organic/polymer synthesis, and biomedical engineering, all focused on developing next-generation therapeutics and diagnostics. My central tenet is that an interdisciplinary approach, paired with state-of-the-art tools & resources, is the most effective way to overcome the longstanding challenges in biomedical research.
 
+In addition to research, I have a mild obsession with data visualisation & graphic design. I intend to use this space to share code for generating aesthetic graphs and provide vector-format representations of my favourite biotherapeutic modalities in a personally-designed aesthetic.
+
 ---
 
 ### ✦ Technical Toolkit
@@ -57,18 +59,4 @@ I operate at the intersection of **peptide/protein engineering**, **drug discove
   <img src="{{ '/assets/img/badges/badge_Inkscape.svg' | relative_url }}" alt="Inkscape"/>
   <img src="{{ '/assets/img/badges/badge_Blender.svg' | relative_url }}" alt="Blender"/>
 </p>
-
----
-
-### ✦ Aesthetic Data Vis. & Graphics
-
-In addition to research, I have a mild obsession with data visualisation & graphic design. I intend to use this space to share code for generating aesthetic graphs and provide vector-format representations of my favourite biotherapeutic modalities in a personally-designed aesthetic.
-
-<br>
-<ul>
-  <li><b><a href="https://akshamsabadi.github.io/lod-calculator/">LOD Calculator</a></b> (<a href="https://github.com/akshamsabadi/lod-calculator">Source Code</a>)</li>
-</ul>
-<br>
-
-*(More repositories and visuals coming soon...)*
 
