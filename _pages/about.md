@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey! I’m **André**, a chemical biologist who enjoys exploring important and challenging problems in biotherapeutic design. 
+Hey! I’m **André**, a chemical biologist who enjoys exploring important and challenging problems in biotherapeutic design.
 
 My foundational background is in organic chemistry, and an early fascination of mine was to utilise this to address significant challenges in biology, which in itself, is the most complex and important expression of chemistry.
 
@@ -59,4 +59,3 @@ In addition to research, I have a mild obsession with data visualisation & graph
   <img src="{{ '/assets/img/badges/badge_Inkscape.svg' | relative_url }}" alt="Inkscape"/>
   <img src="{{ '/assets/img/badges/badge_Blender.svg' | relative_url }}" alt="Blender"/>
 </p>
-

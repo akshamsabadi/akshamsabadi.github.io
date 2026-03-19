@@ -13,7 +13,7 @@
   contents:
     - title: PhD Researcher
       institution: UCL
-      year: 
+      year:
       description:
         - Synthetic Organic Chemistry
 
@@ -28,19 +28,19 @@
 
     - title: Senior Scientist
       institution: AstraZeneca
-      year: 
+      year:
       description:
         - Oncology Targeted Delivery
 
     - title: Research Associate / Academic Visitor
       institution: University of Oxford
-      year: 
+      year:
       description:
         - Biomedical Engineering
 
     - title: Postdoctoral Research Associate
       institution: Imperial College London
-      year: 
+      year:
       description:
         - Chemical Biology & Materials
 
@@ -48,5 +48,5 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/akshamsabadi/lod-calculator">LOD Calculator</a>
-      year: 
+      year:
       description: A web application for calculating the Limit of Detection (LOD).

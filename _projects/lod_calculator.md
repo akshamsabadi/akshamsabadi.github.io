@@ -9,8 +9,8 @@ related_publications: false
 
 A fast, client-side web application built for researchers to calculate the **Limit of Detection (LOD)** using standard linear regression techniques on calibration curve data.
 
-* **Live Demo:** [akshamsabadi.github.io/lod-calculator](https://akshamsabadi.github.io/lod-calculator/)
-* **Source Code:** [akshamsabadi/lod-calculator](https://github.com/akshamsabadi/lod-calculator)
+- **Live Demo:** [akshamsabadi.github.io/lod-calculator](https://akshamsabadi.github.io/lod-calculator/)
+- **Source Code:** [akshamsabadi/lod-calculator](https://github.com/akshamsabadi/lod-calculator)
 
 ### Features
 
