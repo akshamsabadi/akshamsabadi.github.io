@@ -3,7 +3,7 @@ layout: page
 title: LOD Calculator
 description: A web application for calculating the Limit of Detection (LOD) and Limit of Quantification (LOQ).
 importance: 1
-category: Tools
+category: work
 related_publications: false
 ---
 
