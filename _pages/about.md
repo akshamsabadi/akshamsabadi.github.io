@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Biotherapeutic Designer
+subtitle: Chemical Biologist · AI/ML · Data Visualisation
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +27,48 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-🚧 Website under construction 🚧
+Hey! I’m **André**, a chemical biologist who enjoys exploring important and challenging problems in biotherapeutic design. 
 
-Hey everyone! I'm André and I enjoy tackling the important, challenging problems in biomedicine. I'm a scientist operating at the intersection of chemical biology, drug discovery, and AI/ML and have extensive experience in both academia and industry in bioconjugation, peptide/protein engineering, and organic/polymer synthesis for the design and development of effective therapeutics and diagnostics. My personal fascination is in applying an interdisciplinary approach with state-of-the-art techniques to overcome the most fundamental challenges in biomedical research.
+My foundational background is in organic chemistry, and an early fascination of mine was to utilise this to address significant challenges in biology, which in itself, is the most complex and important expression of chemistry.
 
-In addition to research, I also have a mild obsession with data visualisation and graphic design.
+I operate at the intersection of **peptide/protein engineering**, **drug discovery**, and **AI/ML**. My expertise spans bioconjugation, organic/polymer synthesis, and biomedical engineering, all focused on developing next-generation therapeutics and diagnostics. My central tenet is that an interdisciplinary approach, paired with state-of-the-art tools & resources, is the most effective way to overcome the longstanding challenges in biomedical research.
+
+---
+
+### ✦ Technical Toolkit
+
+<b>Programming & Ecosystem</b>
+<br>
+<p>
+  <img src="{{ '/assets/img/badges/badge_Obsidian.svg' | relative_url }}" alt="Obsidian"/>
+  <img src="{{ '/assets/img/badges/badge_VS_Code.svg' | relative_url }}" alt="VS Code"/>
+  <img src="{{ '/assets/img/badges/badge_Google_Colab.svg' | relative_url }}" alt="Google Colab"/>
+  <img src="{{ '/assets/img/badges/badge_Overleaf.svg' | relative_url }}" alt="Overleaf"/>
+  <img src="{{ '/assets/img/badges/badge_Python.svg' | relative_url }}" alt="Python"/>
+  <img src="{{ '/assets/img/badges/badge_LaTeX.svg' | relative_url }}" alt="LaTeX"/>
+  <img src="{{ '/assets/img/badges/badge_D3.js.svg' | relative_url }}" alt="D3.js"/>
+</p>
+<br>
+
+<b>Design & Visualisation</b>
+<br>
+<p>
+  <img src="{{ '/assets/img/badges/badge_PyMOL.svg' | relative_url }}" alt="PyMOL"/>
+  <img src="{{ '/assets/img/badges/badge_Inkscape.svg' | relative_url }}" alt="Inkscape"/>
+  <img src="{{ '/assets/img/badges/badge_Blender.svg' | relative_url }}" alt="Blender"/>
+</p>
+
+---
+
+### ✦ Aesthetic Data Vis. & Graphics
+
+In addition to research, I have a mild obsession with data visualisation & graphic design. I intend to use this space to share code for generating aesthetic graphs and provide vector-format representations of my favourite biotherapeutic modalities in a personally-designed aesthetic.
+
+<br>
+<ul>
+  <li><b><a href="https://akshamsabadi.github.io/lod-calculator/">LOD Calculator</a></b> (<a href="https://github.com/akshamsabadi/lod-calculator">Source Code</a>)</li>
+</ul>
+<br>
+
+*(More repositories and visuals coming soon...)*
+
