@@ -61,11 +61,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-lod-calculator",
-          title: 'LOD Calculator',
-          description: "A web application for calculating the Limit of Detection (LOD).",
+          section: "News",},{id: "projects-bioassay-lod-fitter",
+          title: 'Bioassay LOD Fitter',
+          description: "A web application for analysing concentration-response data, performing advanced sigmoidal curve fitting, and rigorously calculating the Limit of Detection (LOD).",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/lod_calculator/";
+              window.location.href = "/projects/bioassay_lod_fitter/";
             },},{
         id: 'social-email',
         title: 'email',
