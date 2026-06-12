@@ -47,6 +47,6 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/akshamsabadi/bioassay-LOD-fitter">Bioassay LOD Fitter</a>
+    - title: <a href="https://github.com/akshamsabadi/bioassay-LOD-fitter">Bioassay LOD Fitter (v0.5.10)</a>
       year:
       description: A web application for calculating the Limit of Detection (LOD).
