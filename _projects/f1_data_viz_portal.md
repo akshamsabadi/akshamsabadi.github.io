@@ -2,8 +2,8 @@
 layout: page
 title: F1 Data Viz Portal
 description: An interactive D3.js and HTML dashboard mapping Formula 1 timing data, lap charts, and model-estimated corner speeds.
-importance: 2
-category: work
+importance: 1
+category: fun
 related_publications: false
 ---
 
