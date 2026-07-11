@@ -66,6 +66,11 @@ ninja.data = [{
           description: "A web application for analysing concentration-response data, performing advanced sigmoidal curve fitting, and rigorously calculating the Limit of Detection (LOD).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bioassay_lod_fitter/";
+            },},{id: "projects-f1-data-viz-portal",
+          title: 'F1 Data Viz Portal',
+          description: "An interactive D3.js and HTML dashboard mapping Formula 1 timing data, lap charts, and model-estimated corner speeds.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/f1_data_viz_portal/";
             },},{
         id: 'social-email',
         title: 'email',
