@@ -47,7 +47,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/akshamsabadi/bioassay-LOD-fitter">Bioassay LOD Fitter (v0.6.20)</a>
+    - title: <a href="https://github.com/akshamsabadi/bioassay-LOD-fitter">Bioassay LOD Fitter (v0.6.21)</a>
       year:
       description: A client-side React/TS application for multi-curve sigmoidal fitting (Linear, Langmuir, 4PL, 5PL), shared logarithmic broken-axis overlay, comparative sensitivity leaderboards, direct spreadsheet clipboard pasting, and Currie/Holstein LOD diagnostics.
     - title: <a href="https://github.com/akshamsabadi/f1-data-viz-portal">F1 Data Viz Portal (v1.16.26)</a>
