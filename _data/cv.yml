@@ -47,9 +47,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/akshamsabadi/bioassay-LOD-fitter">Bioassay LOD Fitter (v0.6.8)</a>
+    - title: <a href="https://github.com/akshamsabadi/bioassay-LOD-fitter">Bioassay LOD Fitter (v0.6.16)</a>
       year:
-      description: A modular, client-side React/TS application for advanced sigmoidal curve fitting, multi-model AICc comparisons, and automated assay diagnostics.
+      description: A client-side React/TS scientific application for advanced sigmoidal curve fitting (Linear, Langmuir, 4PL, 5PL), multi-model AICc comparisons, direct spreadsheet clipboard pasting, and automated Currie/Holstein LOD diagnostics.
     - title: <a href="https://github.com/akshamsabadi/f1-data-viz-portal">F1 Data Viz Portal (v1.16.26)</a>
       year:
       description: An interactive D3.js and ESM HTML dashboard mapping Formula 1 timing telemetry, lap beeswarms, track position bump charts, and session standings.
